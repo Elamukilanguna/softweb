@@ -736,8 +736,8 @@ border:2px solid white;
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot 2023-12-20 085629.png>)
 ![Alt text](<Screenshot 2023-12-20 085640.png>)
+![Alt text](<Screenshot 2023-12-20 085629.png>)
 ![Alt text](<Screenshot 2023-12-20 085649.png>)
 ![Alt text](<Screenshot 2023-12-20 085658.png>)
 ![Alt text](<Screenshot 2023-12-20 085709.png>)
